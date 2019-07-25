@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878891594056",
+    "firebase_url": "https://duckhuntretro.firebaseio.com",
+    "project_id": "duckhuntretro",
+    "storage_bucket": "duckhuntretro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878891594056:android:5e3fc5293798a64a",
+        "android_client_info": {
+          "package_name": "app.android.joshjosh.duckhuntretro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878891594056-kinmqqa18frtod3tsg4fcqbedmuv32gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.android.joshjosh.duckhuntretro",
+            "certificate_hash": "353566c04e7174cd3de8ff5ea5e956544221c18c"
+          }
+        },
+        {
+          "client_id": "878891594056-6ah6kdl9772rgqkor5siu119eh8doo6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJVIJTXfMCjQKtN23JnI_TYryFbnnHKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878891594056-6ah6kdl9772rgqkor5siu119eh8doo6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
